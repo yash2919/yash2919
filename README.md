@@ -10,5 +10,5 @@
 - 🌟 Software Engineer at Tata Consultancy Services.
 - 🌟 Achievements include streamlining a mobile-based cheque cashing application, integrating KYC and security SDKs, and automating deployment processes.
 ## Seeking Opportunities
-- 💬 Actively seeking a summer 2024 internship opportunity.
+- 💬 Actively seeking a SRE/SWE 2025 opportunity.
 - 💬 Let's connect and explore the endless possibilities of technology together. 🌐
